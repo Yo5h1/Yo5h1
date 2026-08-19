@@ -9,9 +9,6 @@
 <a href="https://devyoshi.com">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-devyoshi.com-39FF14?style=for-the-badge&labelColor=0D1117&color=161B22"/>
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
-</a>
 
 </div>
 
