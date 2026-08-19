@@ -1,17 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B5E20&height=180&section=header&text=Joaquin%20Escate&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20a.k.a.%20Yoshi&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B5E20&height=180&section=header&text=Joaquin%20Escate&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20-%20DevYoshi&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%"/>
 
+<a href="https://devyoshi.com">
+  <img src="https://img.shields.io/badge/devyoshi.com-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117" />
+</a>
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117" />
 </a>
 <a href="mailto:tuemail@ejemplo.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117" />
-</a>
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A246A&height=36&section=header&text=C:%5CUsers%5CYoshi%5Cabout_me.txt&fontSize=14&fontColor=FFFFFF&fontAlignY=65&fontAlign=8" width="480"/>
+  <br/>
+  <img src="https://win98icons.alexmeub.com/icons/png/computer_explorer-4.png" width="32"/>
+  <img src="https://win98icons.alexmeub.com/icons/png/msagent-0.png" width="32"/>
+  <img src="https://win98icons.alexmeub.com/icons/png/floppy_drive-1.png" width="32"/>
+  <img src="https://win98icons.alexmeub.com/icons/png/notepad-0.png" width="32"/>
 </div>
 
 <br/>
@@ -19,13 +30,11 @@
 ### 🧠 Sobre mí
 
 ```yaml
-soy: Joaquin Escate (Yoshi)
-rol: Frontend Developer
-ubicacion: Lima, Perú
-formacion: Desarrollo de Software · Instituto ISIL
-inicio: Soporte técnico → Desarrollo Frontend
-enfoque: Interfaces limpias, rápidas y funcionales para clientes reales
-disponibilidad: Abierto a proyectos freelance y colaboraciones
+Soy: Joaquin D. Escate Nunez (Yoshi)
+Rol: Frontend Developer
+Ubicacion: Lima, Perú
+Enfoque: Interfaces limpias, rápidas y funcionales para clientes reales
+Disponibilidad: Abierto a proyectos freelance y colaboraciones
 ```
 
 <br/>
@@ -81,15 +90,10 @@ Secciones de proceso multi-paso con diseño de badges circulares y sistema de co
 
 <br/>
 
-### 📈 Estadísticas
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yo5h1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&ring_color=39FF14" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yo5h1&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" width="40%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yo5h1&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="60%" />
+  <img src="https://win98icons.alexmeub.com/icons/png/hourglass-0.png" width="24"/>
+  <br/>
+  <sub>gracias por visitar · <a href="https://devyoshi.com">devyoshi.com</a></sub>
 </div>
 
 <br/>
