@@ -14,7 +14,7 @@
 
 ---
 
-## 🟢 `whoami`
+## `whoami`
 
 ```txt
 ┌──(yoshi@dev)-[~/portfolio]
@@ -32,7 +32,7 @@ Estado       : Disponible para proyectos freelance
 
 ---
 
-## ⚡ Stack principal
+## Stack
 
 <div align="center">
 
@@ -57,7 +57,7 @@ Estado       : Disponible para proyectos freelance
 
 ---
 
-## 🧩 Actualmente trabajando en
+## Actualmente trabajando en
 
 ```txt
 > Construyendo mi portafolio profesional
@@ -69,7 +69,7 @@ Estado       : Disponible para proyectos freelance
 
 <div align="center">
 
-### 🤝 Conectemos
+### Contact
 
 Si tienes un proyecto web o una idea que quieras convertir en una interfaz moderna, estaré encantado de conversar.
 
